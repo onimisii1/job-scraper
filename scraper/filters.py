@@ -1,13 +1,15 @@
-
 def is_match(title, include, exclude):
     check = title.lower()
 
-    for word in exclude:         
+    for word in exclude:          
         if word in check:         
-            return False          # one bad word is enough to reject
-            
-    for word in include:          
-        if word in check:
-            return True         # one good word is enough to accept
+            return False          
 
-    return False                  # no good words found
+    for word in include:         
+        if word in check:
+            return True
+
+    return False                  
+
+print(is_match("Software Engineer", ["engineer"], ["manager"]))     # True
+print(is_match("Engineering Manager", ["engineer"], ["manager"]))   # False
