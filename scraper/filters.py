@@ -11,5 +11,3 @@ def is_match(title, include, exclude):
 
     return False                  
 
-print(is_match("Software Engineer", ["engineer"], ["manager"]))     # True
-print(is_match("Engineering Manager", ["engineer"], ["manager"]))   # False
