@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Scraper</title>
+</head>
+<body>
+    <h1>Job Scraper</h1>
+    <p id="summary">Loading jobs...</p>
+
+    <table>
+        <thead>
+            <tr><th>Company</th><th>Title</th><th>Location</th></tr>
+        </thead>
+        <tbody id="results"></tbody>
+    </table>
+
+    <script>
+        async function loadJobs() {
+            const summary = document.getElementById("summary");
+            try {
+                // cache: "no-store" = always download a fresh copy
+                const response = await fetch("jobs.json", { cache: "no-store" });
+                const data = await response.json();
+
+                // works whether jobs.json is a list [...] or {"jobs": [...]}
+                const jobs = Array.isArray(data) ? data : data.jobs;
+                const updated = data.updated || "unknown";
+
+                summary.textContent = `${jobs.length} jobs · last updated ${updated}`;
+
+                let rows = "";
+                for (const job of jobs) {
+                    rows += `<tr>
+                        <td>${job.company}</td>
+                        <td><a href="${job.url}" target="_blank">${job.title}</a></td>
+                        <td>${job.location}</td>
+                    </tr>`;
+                }
+                document.getElementById("results").innerHTML = rows;
+            } catch (error) {
+                summary.textContent = "Error: " + error.message;
+                summary.style.color = "red";
+            }
+        }
+
+        loadJobs();
+    </script>
+</body>
+</html>
