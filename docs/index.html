@@ -1,21 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Job Scraper</title>
+    <title>The Job Sheet</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
-        <h1>Job Scraper</h1>
-        <p class="tagline">Live job listings from top tech companies, updated daily.</p>
+        <header class="masthead">
+            <div class="masthead-meta">
+                <span>Vol. 01</span>
+                <span>Updated every morning</span>
+                <span>Free edition</span>
+            </div>
+            <h1>The Job <em>Sheet</em></h1>
+            <p class="tagline">Open roles from companies worth working for, pulled straight from their hiring boards.</p>
+        </header>
 
         <div class="controls">
-            <label>Include keywords (comma-separated)
+            <label>Looking for
                 <input id="include" placeholder="engineer, developer">
             </label>
-            <label>Exclude keywords
+            <label>Leave out
                 <input id="exclude" placeholder="manager, senior">
             </label>
         </div>
@@ -25,7 +37,7 @@
         <div class="table-wrap">
             <table>
                 <thead>
-                    <tr><th>Company</th><th>Title</th><th>Location</th></tr>
+                    <tr><th>Company</th><th>Role</th><th>Location</th></tr>
                 </thead>
                 <tbody id="results"></tbody>
             </table>
