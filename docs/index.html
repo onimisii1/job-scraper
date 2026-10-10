@@ -7,6 +7,14 @@
 </head>
 <body>
     <h1>Job Scraper</h1>
+
+    <label>Include keywords (comma-separated)
+        <input id="include" placeholder="engineer, developer">
+    </label>
+    <label>Exclude keywords
+        <input id="exclude" placeholder="manager, senior">
+    </label>
+
     <p id="summary">Loading jobs...</p>
 
     <table>
@@ -17,33 +25,77 @@
     </table>
 
     <script>
+        let allJobs = [];        // every job, loaded once
+        let updated = "";
+
+        // YOUR EXERCISE: translate your Python is_match into JavaScript
+        function isMatch(title, include, exclude) {
+            const check = title.toLowerCase();
+
+            for (const word of exclude) {          // Python: for word in exclude:
+                if (check.includes(word)) {        //   if word in check:
+                    return false;                  //     return False
+                }
+            }
+
+            if (include.length === 0) {            // nothing typed: show everything
+                return true;
+            }
+
+            for (const word of include) {          // Python: for word in include:
+                if (check.includes(word)) {
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
+        // turns "engineer, Developer , " into ["engineer", "developer"]
+        function parseWords(text) {
+            return text.split(",")
+                .map(word => word.trim().toLowerCase())
+                .filter(word => word !== "");
+        }
+
+        function render(jobs) {
+            let rows = "";
+            for (const job of jobs) {
+                rows += `<tr>
+                    <td>${job.company}</td>
+                    <td><a href="${job.url}" target="_blank">${job.title}</a></td>
+                    <td>${job.location}</td>
+                </tr>`;
+            }
+            document.getElementById("results").innerHTML = rows;
+            document.getElementById("summary").textContent =
+                `Showing ${jobs.length} of ${allJobs.length} jobs · last updated ${updated}`;
+        }
+
+        function applyFilters() {
+            const include = parseWords(document.getElementById("include").value);
+            const exclude = parseWords(document.getElementById("exclude").value);
+            const matches = allJobs.filter(job => isMatch(job.title, include, exclude));
+            render(matches);
+        }
+
         async function loadJobs() {
             const summary = document.getElementById("summary");
             try {
-                // cache: "no-store" = always download a fresh copy
                 const response = await fetch("jobs.json", { cache: "no-store" });
                 const data = await response.json();
-
-                // works whether jobs.json is a list [...] or {"jobs": [...]}
-                const jobs = Array.isArray(data) ? data : data.jobs;
-                const updated = data.updated || "unknown";
-
-                summary.textContent = `${jobs.length} jobs · last updated ${updated}`;
-
-                let rows = "";
-                for (const job of jobs) {
-                    rows += `<tr>
-                        <td>${job.company}</td>
-                        <td><a href="${job.url}" target="_blank">${job.title}</a></td>
-                        <td>${job.location}</td>
-                    </tr>`;
-                }
-                document.getElementById("results").innerHTML = rows;
+                allJobs = Array.isArray(data) ? data : data.jobs;
+                updated = data.updated || "unknown";
+                applyFilters();
             } catch (error) {
                 summary.textContent = "Error: " + error.message;
                 summary.style.color = "red";
             }
         }
+
+        // re-filter every time the visitor types
+        document.getElementById("include").addEventListener("input", applyFilters);
+        document.getElementById("exclude").addEventListener("input", applyFilters);
 
         loadJobs();
     </script>
