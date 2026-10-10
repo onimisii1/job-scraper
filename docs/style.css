@@ -1,0 +1,218 @@
+/* ---------- colours: change these to restyle the whole page ---------- */
+:root {
+    --bg: #f6f7f9;
+    --card: #ffffff;
+    --text: #1d2433;
+    --muted: #6b7280;
+    --border: #e5e7eb;
+    --accent: #2563eb;
+}
+
+@media (prefers-color-scheme: dark) {      /* automatic dark mode */
+    :root {
+        --bg: #0f1117;
+        --card: #181b24;
+        --text: #e5e7eb;
+        --muted: #9ca3af;
+        --border: #2a2f3a;
+        --accent: #60a5fa;
+    }
+}
+
+/* ---------- page ---------- */
+body {
+    margin: 0;
+    padding: 32px 16px;
+    background: var(--bg);
+    color: var(--text);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.5;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    margin: 0 0 4px;
+    font-size: 28px;
+}
+
+.tagline {
+    margin: 0 0 24px;
+    color: var(--muted);
+}
+
+/* ---------- search boxes ---------- */
+.controls {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    margin-bottom: 16px;
+}
+
+.controls label {
+    flex: 1;
+    min-width: 220px;
+    font-size: 14px;
+    color: var(--muted);
+}
+
+.controls input {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 6px;
+    padding: 10px 12px;
+    font-size: 16px;        /* 16px stops iPhones zooming in when you tap the box */
+    color: var(--text);
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+}
+
+.controls input:focus {
+    outline: none;
+    border-color: var(--accent);
+}
+
+#summary {
+    font-size: 14px;
+    color: var(--muted);
+}
+
+/* ---------- table (desktop) ---------- */
+.table-wrap {
+    overflow-x: auto;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+th, td {
+    padding: 12px 16px;
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+}
+
+th {
+    position: sticky;
+    top: 0;
+    background: var(--card);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--muted);
+}
+
+tbody tr:hover {
+    background: var(--bg);
+}
+
+td:first-child {
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+a {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* ---------- tablets (900px and below) ---------- */
+@media (max-width: 900px) {
+    body {
+        padding: 24px 16px;
+    }
+
+    th, td {
+        padding: 10px 12px;
+    }
+}
+
+/* ---------- phones (640px and below): each job becomes a card ---------- */
+@media (max-width: 640px) {
+    body {
+        padding: 16px 12px;
+    }
+
+    h1 {
+        font-size: 22px;
+    }
+
+    .tagline {
+        font-size: 14px;
+        margin-bottom: 16px;
+    }
+
+    .controls {
+        flex-direction: column;     /* boxes stacked, one per row */
+        gap: 12px;
+    }
+
+    .controls label {
+        min-width: 0;
+    }
+
+    /* drop the table look: no outer box, no header row */
+    .table-wrap {
+        background: none;
+        border: none;
+        overflow: visible;
+    }
+
+    thead {
+        display: none;              /* column titles aren't needed on cards */
+    }
+
+    table, tbody, tr, td {
+        display: block;             /* stack everything vertically */
+        width: 100%;
+    }
+
+    tr {
+        box-sizing: border-box;
+        margin-bottom: 12px;
+        padding: 14px 16px;
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+    }
+
+    tbody tr:hover {
+        background: var(--card);    /* no hover effect on touch screens */
+    }
+
+    td {
+        padding: 2px 0;
+        border: none;
+    }
+
+    td:first-child {                /* company: small label on top */
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: var(--muted);
+    }
+
+    td:nth-child(2) {               /* title: the main line */
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    td:nth-child(3) {               /* location: small, underneath */
+        font-size: 13px;
+        color: var(--muted);
+    }
+}

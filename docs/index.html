@@ -4,25 +4,33 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Job Scraper</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Job Scraper</h1>
+    <div class="container">
+        <h1>Job Scraper</h1>
+        <p class="tagline">Live job listings from top tech companies, updated daily.</p>
 
-    <label>Include keywords (comma-separated)
-        <input id="include" placeholder="engineer, developer">
-    </label>
-    <label>Exclude keywords
-        <input id="exclude" placeholder="manager, senior">
-    </label>
+        <div class="controls">
+            <label>Include keywords (comma-separated)
+                <input id="include" placeholder="engineer, developer">
+            </label>
+            <label>Exclude keywords
+                <input id="exclude" placeholder="manager, senior">
+            </label>
+        </div>
 
-    <p id="summary">Loading jobs...</p>
+        <p id="summary">Loading jobs...</p>
 
-    <table>
-        <thead>
-            <tr><th>Company</th><th>Title</th><th>Location</th></tr>
-        </thead>
-        <tbody id="results"></tbody>
-    </table>
+        <div class="table-wrap">
+            <table>
+                <thead>
+                    <tr><th>Company</th><th>Title</th><th>Location</th></tr>
+                </thead>
+                <tbody id="results"></tbody>
+            </table>
+        </div>
+    </div>
 
     <script>
         let allJobs = [];        // every job, loaded once
