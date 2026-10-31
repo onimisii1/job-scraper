@@ -1,18 +1,18 @@
 {
-  "updated": "2026-10-30 12:16 UTC",
-  "count": 1790,
+  "updated": "2026-10-31 11:47 UTC",
+  "count": 1804,
   "jobs": [
-    {
-      "company": "stripe",
-      "title": "Abuse Investigator",
-      "location": "Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=8172508"
-    },
     {
       "company": "stripe",
       "title": "Abuse Investigator",
       "location": "Seattle, San Francisco, New York City",
       "url": "https://stripe.com/jobs/search?gh_jid=8172510"
+    },
+    {
+      "company": "stripe",
+      "title": "Abuse Investigator",
+      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8172508"
     },
     {
       "company": "stripe",
@@ -121,6 +121,12 @@
       "title": "Account Executive - Enterprise (Grower) - French Speaking",
       "location": "Paris",
       "url": "https://stripe.com/jobs/search?gh_jid=8284962"
+    },
+    {
+      "company": "stripe",
+      "title": "Account Executive, Enterprise Grower (Israel)",
+      "location": "Israel",
+      "url": "https://stripe.com/jobs/search?gh_jid=8114458"
     },
     {
       "company": "stripe",
@@ -401,14 +407,14 @@
     {
       "company": "stripe",
       "title": "Account Executive, Product (Payouts) - Hunter",
-      "location": "London, Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=8196259"
+      "location": "New York",
+      "url": "https://stripe.com/jobs/search?gh_jid=8196269"
     },
     {
       "company": "stripe",
       "title": "Account Executive, Product (Payouts) - Hunter",
-      "location": "New York",
-      "url": "https://stripe.com/jobs/search?gh_jid=8196269"
+      "location": "London, Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8196259"
     },
     {
       "company": "stripe",
@@ -437,14 +443,14 @@
     {
       "company": "stripe",
       "title": "Account Executive, Product Sales - Currency Management",
-      "location": "New York",
-      "url": "https://stripe.com/jobs/search?gh_jid=8190416"
+      "location": "Singapore",
+      "url": "https://stripe.com/jobs/search?gh_jid=8175828"
     },
     {
       "company": "stripe",
       "title": "Account Executive, Product Sales - Currency Management",
-      "location": "Singapore",
-      "url": "https://stripe.com/jobs/search?gh_jid=8175828"
+      "location": "New York",
+      "url": "https://stripe.com/jobs/search?gh_jid=8190416"
     },
     {
       "company": "stripe",
@@ -462,13 +468,13 @@
       "company": "stripe",
       "title": "Account Executive, Product Sales, Metronome",
       "location": "US-NYC",
-      "url": "https://stripe.com/jobs/search?gh_jid=8154295"
+      "url": "https://stripe.com/jobs/search?gh_jid=8190042"
     },
     {
       "company": "stripe",
       "title": "Account Executive, Product Sales, Metronome",
       "location": "US-NYC",
-      "url": "https://stripe.com/jobs/search?gh_jid=8190042"
+      "url": "https://stripe.com/jobs/search?gh_jid=8154295"
     },
     {
       "company": "stripe",
@@ -491,14 +497,14 @@
     {
       "company": "stripe",
       "title": "Account Executive, Product Sales - Payouts",
-      "location": "Singapore, Sydney",
-      "url": "https://stripe.com/jobs/search?gh_jid=8273743"
+      "location": "New York or San Francisco",
+      "url": "https://stripe.com/jobs/search?gh_jid=8258697"
     },
     {
       "company": "stripe",
       "title": "Account Executive, Product Sales - Payouts",
-      "location": "New York or San Francisco",
-      "url": "https://stripe.com/jobs/search?gh_jid=8258697"
+      "location": "Singapore, Sydney",
+      "url": "https://stripe.com/jobs/search?gh_jid=8273743"
     },
     {
       "company": "stripe",
@@ -556,12 +562,6 @@
     },
     {
       "company": "stripe",
-      "title": "Account Executive, SMB Grower",
-      "location": "Toronto, Canada",
-      "url": "https://stripe.com/jobs/search?gh_jid=8238743"
-    },
-    {
-      "company": "stripe",
       "title": "Account Executive, SMB (Grower)",
       "location": "Chicago",
       "url": "https://stripe.com/jobs/search?gh_jid=8156996"
@@ -571,12 +571,6 @@
       "title": "Account Executive, SMB Grower (DACH)",
       "location": "Dublin",
       "url": "https://stripe.com/jobs/search?gh_jid=8286685"
-    },
-    {
-      "company": "stripe",
-      "title": "Account Executive, SMB Grower (French speaking)",
-      "location": "Toronto",
-      "url": "https://stripe.com/jobs/search?gh_jid=8250479"
     },
     {
       "company": "stripe",
@@ -612,13 +606,13 @@
       "company": "stripe",
       "title": "Account Executive, Startups (Grower)",
       "location": "San Francisco",
-      "url": "https://stripe.com/jobs/search?gh_jid=8280266"
+      "url": "https://stripe.com/jobs/search?gh_jid=8128552"
     },
     {
       "company": "stripe",
       "title": "Account Executive, Startups (Grower)",
       "location": "San Francisco",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128552"
+      "url": "https://stripe.com/jobs/search?gh_jid=8280266"
     },
     {
       "company": "stripe",
@@ -641,26 +635,26 @@
     {
       "company": "stripe",
       "title": "Account Executive, Velocity Platforms (Hunter)",
-      "location": "New York, NY",
-      "url": "https://stripe.com/jobs/search?gh_jid=8304836"
-    },
-    {
-      "company": "stripe",
-      "title": "Account Executive, Velocity Platforms (Hunter)",
       "location": "Chicago, IL; New York, NY; San Francisco, CA",
       "url": "https://stripe.com/jobs/search?gh_jid=8267839"
     },
     {
       "company": "stripe",
       "title": "Account Executive, Velocity Platforms (Hunter)",
-      "location": "Chicago, IL",
-      "url": "https://stripe.com/jobs/search?gh_jid=8267841"
+      "location": "San Francisco, CA",
+      "url": "https://stripe.com/jobs/search?gh_jid=8304841"
     },
     {
       "company": "stripe",
       "title": "Account Executive, Velocity Platforms (Hunter)",
-      "location": "San Francisco, CA",
-      "url": "https://stripe.com/jobs/search?gh_jid=8304841"
+      "location": "New York, NY",
+      "url": "https://stripe.com/jobs/search?gh_jid=8304836"
+    },
+    {
+      "company": "stripe",
+      "title": "Account Executive, Velocity Platforms (Hunter)",
+      "location": "Chicago, IL",
+      "url": "https://stripe.com/jobs/search?gh_jid=8267841"
     },
     {
       "company": "stripe",
@@ -685,6 +679,12 @@
       "title": "Accounting AI Solutions Lead",
       "location": "Seattle, San Francisco, New York",
       "url": "https://stripe.com/jobs/search?gh_jid=8103750"
+    },
+    {
+      "company": "stripe",
+      "title": "Administrative Business Partner, Coverage",
+      "location": "Remote - US",
+      "url": "https://stripe.com/jobs/search?gh_jid=8328118"
     },
     {
       "company": "stripe",
@@ -715,12 +715,6 @@
       "title": "AI Solutions Program Manager, Finance",
       "location": "SEA, SF, NYC, CHI",
       "url": "https://stripe.com/jobs/search?gh_jid=8221776"
-    },
-    {
-      "company": "stripe",
-      "title": "Americas Field Marketing, AI",
-      "location": "South San Francisco",
-      "url": "https://stripe.com/jobs/search?gh_jid=8222219"
     },
     {
       "company": "stripe",
@@ -785,14 +779,14 @@
     {
       "company": "stripe",
       "title": "Backend Engineer, Developer & End-user Experience Platform",
-      "location": "SEA, SF, NY, Toronto",
-      "url": "https://stripe.com/jobs/search?gh_jid=7476555"
+      "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7292520"
     },
     {
       "company": "stripe",
       "title": "Backend Engineer, Developer & End-user Experience Platform",
-      "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
-      "url": "https://stripe.com/jobs/search?gh_jid=7292520"
+      "location": "SEA, SF, NY, Toronto",
+      "url": "https://stripe.com/jobs/search?gh_jid=7476555"
     },
     {
       "company": "stripe",
@@ -835,6 +829,12 @@
       "title": "Benefits Program Manager, EMEA",
       "location": "Dublin, London",
       "url": "https://stripe.com/jobs/search?gh_jid=8202831"
+    },
+    {
+      "company": "stripe",
+      "title": "Blockchain Security Engineer, Bridge",
+      "location": "Luxembourg",
+      "url": "https://stripe.com/jobs/search?gh_jid=8336819"
     },
     {
       "company": "stripe",
@@ -886,12 +886,6 @@
     },
     {
       "company": "stripe",
-      "title": "Client Platform Security Engineer",
-      "location": "New York, New York",
-      "url": "https://stripe.com/jobs/search?gh_jid=7982720"
-    },
-    {
-      "company": "stripe",
       "title": "Cloud Security Engineer",
       "location": "Seattle",
       "url": "https://stripe.com/jobs/search?gh_jid=7867389"
@@ -901,6 +895,12 @@
       "title": "Commercial Account Executive - Grower",
       "location": "Sydney or Melbourne",
       "url": "https://stripe.com/jobs/search?gh_jid=8330791"
+    },
+    {
+      "company": "stripe",
+      "title": "Commercial Counsel, Bridge",
+      "location": "US-Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8335758"
     },
     {
       "company": "stripe",
@@ -934,12 +934,6 @@
     },
     {
       "company": "stripe",
-      "title": "Company Strategy & Operations",
-      "location": "US",
-      "url": "https://stripe.com/jobs/search?gh_jid=8070054"
-    },
-    {
-      "company": "stripe",
       "title": "Compliance Manager, User Enablement",
       "location": "Dublin OR London",
       "url": "https://stripe.com/jobs/search?gh_jid=7530580"
@@ -949,12 +943,6 @@
       "title": "Consumer Operations Associate",
       "location": "Mexico City",
       "url": "https://stripe.com/jobs/search?gh_jid=7967890"
-    },
-    {
-      "company": "stripe",
-      "title": "Contracting Operations Specialist",
-      "location": "Bengaluru",
-      "url": "https://stripe.com/jobs/search?gh_jid=7994945"
     },
     {
       "company": "stripe",
@@ -989,14 +977,14 @@
     {
       "company": "stripe",
       "title": "Credit Risk Analyst Commercial Underwriter",
-      "location": "Chicago, US-Remote, Canada-Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7540441"
+      "location": "Singapore",
+      "url": "https://stripe.com/jobs/search?gh_jid=8287916"
     },
     {
       "company": "stripe",
       "title": "Credit Risk Analyst Commercial Underwriter",
-      "location": "Singapore",
-      "url": "https://stripe.com/jobs/search?gh_jid=8287916"
+      "location": "Chicago, US-Remote, Canada-Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7540441"
     },
     {
       "company": "stripe",
@@ -1109,14 +1097,14 @@
     {
       "company": "stripe",
       "title": "Data Analyst, Intern",
-      "location": "Toronto",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194287"
+      "location": "New York, Seattle, South San Francisco HQ",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194291"
     },
     {
       "company": "stripe",
       "title": "Data Analyst, Intern",
-      "location": "New York, Seattle, South San Francisco HQ",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194291"
+      "location": "Toronto",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194287"
     },
     {
       "company": "stripe",
@@ -1139,8 +1127,8 @@
     {
       "company": "stripe",
       "title": "Data Scientist",
-      "location": "Toronto",
-      "url": "https://stripe.com/jobs/search?gh_jid=5895430"
+      "location": "Seattle, WA",
+      "url": "https://stripe.com/jobs/search?gh_jid=8222149"
     },
     {
       "company": "stripe",
@@ -1151,8 +1139,8 @@
     {
       "company": "stripe",
       "title": "Data Scientist",
-      "location": "Seattle, WA",
-      "url": "https://stripe.com/jobs/search?gh_jid=8222149"
+      "location": "Toronto",
+      "url": "https://stripe.com/jobs/search?gh_jid=5895430"
     },
     {
       "company": "stripe",
@@ -1267,6 +1255,12 @@
       "title": "Engineering Manager, Checkout Optimization",
       "location": "N/A",
       "url": "https://stripe.com/jobs/search?gh_jid=8161567"
+    },
+    {
+      "company": "stripe",
+      "title": "Engineering Manager, Commerce Systems",
+      "location": "N/A",
+      "url": "https://stripe.com/jobs/search?gh_jid=8330131"
     },
     {
       "company": "stripe",
@@ -1392,13 +1386,13 @@
       "company": "stripe",
       "title": "Enterprise Account Executive, Privy",
       "location": "New York",
-      "url": "https://stripe.com/jobs/search?gh_jid=8232743"
+      "url": "https://stripe.com/jobs/search?gh_jid=8232741"
     },
     {
       "company": "stripe",
       "title": "Enterprise Account Executive, Privy",
       "location": "New York",
-      "url": "https://stripe.com/jobs/search?gh_jid=8232741"
+      "url": "https://stripe.com/jobs/search?gh_jid=8232743"
     },
     {
       "company": "stripe",
@@ -1571,14 +1565,14 @@
     {
       "company": "stripe",
       "title": "Fraud Operations Manager",
-      "location": "US-Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=8175832"
+      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=7608396"
     },
     {
       "company": "stripe",
       "title": "Fraud Operations Manager",
-      "location": "Bengaluru",
-      "url": "https://stripe.com/jobs/search?gh_jid=7608396"
+      "location": "US-Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8175832"
     },
     {
       "company": "stripe",
@@ -1595,20 +1589,14 @@
     {
       "company": "stripe",
       "title": "Fraud Strategist",
-      "location": "LOCATION",
-      "url": "https://stripe.com/jobs/search?gh_jid=8112448"
-    },
-    {
-      "company": "stripe",
-      "title": "Fraud Strategist",
       "location": "Singapore",
       "url": "https://stripe.com/jobs/search?gh_jid=8195058"
     },
     {
       "company": "stripe",
-      "title": "Frontend Engineer, Data Product Experiences",
-      "location": "N/A",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194606"
+      "title": "Fraud Strategist",
+      "location": "LOCATION",
+      "url": "https://stripe.com/jobs/search?gh_jid=8112448"
     },
     {
       "company": "stripe",
@@ -1656,13 +1644,13 @@
       "company": "stripe",
       "title": "Full Stack Engineer, Enterprise Engineering",
       "location": "N/A",
-      "url": "https://stripe.com/jobs/search?gh_jid=8214616"
+      "url": "https://stripe.com/jobs/search?gh_jid=8214618"
     },
     {
       "company": "stripe",
       "title": "Full Stack Engineer, Enterprise Engineering",
       "location": "N/A",
-      "url": "https://stripe.com/jobs/search?gh_jid=8214618"
+      "url": "https://stripe.com/jobs/search?gh_jid=8214616"
     },
     {
       "company": "stripe",
@@ -1673,7 +1661,7 @@
     {
       "company": "stripe",
       "title": "Full Stack Engineer, Money as a Service",
-      "location": "N/A",
+      "location": "In-person",
       "url": "https://stripe.com/jobs/search?gh_jid=6606581"
     },
     {
@@ -2032,12 +2020,6 @@
     },
     {
       "company": "stripe",
-      "title": "Investigator",
-      "location": "US Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=8172491"
-    },
-    {
-      "company": "stripe",
       "title": "iOS Engineer, Identity",
       "location": "Seattle, WA; San Francisco, CA; New York City, NY",
       "url": "https://stripe.com/jobs/search?gh_jid=8311082"
@@ -2206,12 +2188,6 @@
     },
     {
       "company": "stripe",
-      "title": "Manager, Solutions Architecture - Platforms (Chicago)",
-      "location": "Chicago, IL",
-      "url": "https://stripe.com/jobs/search?gh_jid=8175667"
-    },
-    {
-      "company": "stripe",
       "title": "Manager, Solutions Architecture Transformation",
       "location": "USA",
       "url": "https://stripe.com/jobs/search?gh_jid=8175637"
@@ -2275,6 +2251,18 @@
       "title": "Marketing Technology Program Manager",
       "location": "US Remote",
       "url": "https://stripe.com/jobs/search?gh_jid=8257939"
+    },
+    {
+      "company": "stripe",
+      "title": "Master's Machine Learning Engineer, Intern",
+      "location": "San Francisco, New York City, Seattle",
+      "url": "https://stripe.com/jobs/search?gh_jid=8333074"
+    },
+    {
+      "company": "stripe",
+      "title": "Master's Machine Learning Engineer, Intern",
+      "location": "Toronto",
+      "url": "https://stripe.com/jobs/search?gh_jid=8333122"
     },
     {
       "company": "stripe",
@@ -2387,26 +2375,20 @@
     {
       "company": "stripe",
       "title": "Partner Development Manager",
-      "location": "London",
-      "url": "https://stripe.com/jobs/search?gh_jid=8104427"
-    },
-    {
-      "company": "stripe",
-      "title": "Partner Development Manager",
       "location": "Mexico",
       "url": "https://stripe.com/jobs/search?gh_jid=8096790"
     },
     {
       "company": "stripe",
       "title": "Partner Development Manager",
-      "location": "London",
-      "url": "https://stripe.com/jobs/search?gh_jid=8267519"
+      "location": "Singapore",
+      "url": "https://stripe.com/jobs/search?gh_jid=8234703"
     },
     {
       "company": "stripe",
       "title": "Partner Development Manager",
-      "location": "Singapore",
-      "url": "https://stripe.com/jobs/search?gh_jid=8234703"
+      "location": "London",
+      "url": "https://stripe.com/jobs/search?gh_jid=8104427"
     },
     {
       "company": "stripe",
@@ -2455,6 +2437,12 @@
       "title": "Partner Development Manager, Strategic Payment Partnerships",
       "location": "US-Remote; US-Chicago; US-Atlanta; CA-Toronto; CA-Remote",
       "url": "https://stripe.com/jobs/search?gh_jid=8275513"
+    },
+    {
+      "company": "stripe",
+      "title": "Partner Development Manager- System Integrators",
+      "location": "London",
+      "url": "https://stripe.com/jobs/search?gh_jid=8267519"
     },
     {
       "company": "stripe",
@@ -2555,14 +2543,26 @@
     {
       "company": "stripe",
       "title": "PhD Data Scientist, Intern",
+      "location": "New York, Seattle, South San Francisco HQ",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194283"
+    },
+    {
+      "company": "stripe",
+      "title": "PhD Data Scientist, Intern",
       "location": "Toronto",
       "url": "https://stripe.com/jobs/search?gh_jid=8194285"
     },
     {
       "company": "stripe",
-      "title": "PhD Data Scientist, Intern",
-      "location": "New York, Seattle, South San Francisco HQ",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194283"
+      "title": "PhD Machine Learning Engineer, Intern",
+      "location": "Toronto",
+      "url": "https://stripe.com/jobs/search?gh_jid=8328664"
+    },
+    {
+      "company": "stripe",
+      "title": "PhD Machine Learning Engineer, Intern",
+      "location": "San Francisco, New York City, Seattle",
+      "url": "https://stripe.com/jobs/search?gh_jid=8328662"
     },
     {
       "company": "stripe",
@@ -2585,14 +2585,14 @@
     {
       "company": "stripe",
       "title": "Privacy Operations Program Manager",
-      "location": "US Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=8053517"
+      "location": "Dublin, London",
+      "url": "https://stripe.com/jobs/search?gh_jid=8094087"
     },
     {
       "company": "stripe",
       "title": "Privacy Operations Program Manager",
-      "location": "Dublin, London",
-      "url": "https://stripe.com/jobs/search?gh_jid=8094087"
+      "location": "US Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8053517"
     },
     {
       "company": "stripe",
@@ -2785,6 +2785,12 @@
       "title": "Product Manager, Terminal Developer Experiences",
       "location": "San Francisco, Seattle",
       "url": "https://stripe.com/jobs/search?gh_jid=7586413"
+    },
+    {
+      "company": "stripe",
+      "title": "Product Manager, Terminal Payments",
+      "location": "Toronto, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=8327254"
     },
     {
       "company": "stripe",
@@ -3001,12 +3007,6 @@
       "title": "Recruiting Coordinator (Fixed-Term Contract)",
       "location": "SF",
       "url": "https://stripe.com/jobs/search?gh_jid=8231145"
-    },
-    {
-      "company": "stripe",
-      "title": "Recruiting Project Manager",
-      "location": "CHI, ATL",
-      "url": "https://stripe.com/jobs/search?gh_jid=8142077"
     },
     {
       "company": "stripe",
@@ -3245,14 +3245,14 @@
     {
       "company": "stripe",
       "title": "Sales Manager, Startups - Hunter",
-      "location": "San Francisco",
-      "url": "https://stripe.com/jobs/search?gh_jid=8267829"
+      "location": "Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=8191706"
     },
     {
       "company": "stripe",
       "title": "Sales Manager, Startups - Hunter",
-      "location": "Chicago",
-      "url": "https://stripe.com/jobs/search?gh_jid=8191706"
+      "location": "San Francisco",
+      "url": "https://stripe.com/jobs/search?gh_jid=8267829"
     },
     {
       "company": "stripe",
@@ -3425,14 +3425,14 @@
     {
       "company": "stripe",
       "title": "Senior Staff Product Manager, Risk",
-      "location": "London",
-      "url": "https://stripe.com/jobs/search?gh_jid=8273741"
+      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8264005"
     },
     {
       "company": "stripe",
       "title": "Senior Staff Product Manager, Risk",
-      "location": "Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=8264005"
+      "location": "London",
+      "url": "https://stripe.com/jobs/search?gh_jid=8273741"
     },
     {
       "company": "stripe",
@@ -3455,8 +3455,14 @@
     {
       "company": "stripe",
       "title": "Software Engineer",
+      "location": "Taiwan",
+      "url": "https://stripe.com/jobs/search?gh_jid=8318509"
+    },
+    {
+      "company": "stripe",
+      "title": "Software Engineer",
       "location": "Seattle, WA",
-      "url": "https://stripe.com/jobs/search?gh_jid=8249901"
+      "url": "https://stripe.com/jobs/search?gh_jid=8267736"
     },
     {
       "company": "stripe",
@@ -3468,13 +3474,7 @@
       "company": "stripe",
       "title": "Software Engineer",
       "location": "Seattle, WA",
-      "url": "https://stripe.com/jobs/search?gh_jid=8267736"
-    },
-    {
-      "company": "stripe",
-      "title": "Software Engineer",
-      "location": "Taiwan",
-      "url": "https://stripe.com/jobs/search?gh_jid=8318509"
+      "url": "https://stripe.com/jobs/search?gh_jid=8249901"
     },
     {
       "company": "stripe",
@@ -3509,14 +3509,14 @@
     {
       "company": "stripe",
       "title": "Software Engineer, Early Career \u2014 Immediate Start",
-      "location": "Toronto",
-      "url": "https://stripe.com/jobs/search?gh_jid=8212517"
+      "location": "San Francisco, Seattle, New York",
+      "url": "https://stripe.com/jobs/search?gh_jid=8212508"
     },
     {
       "company": "stripe",
       "title": "Software Engineer, Early Career \u2014 Immediate Start",
-      "location": "San Francisco, Seattle, New York",
-      "url": "https://stripe.com/jobs/search?gh_jid=8212508"
+      "location": "Toronto",
+      "url": "https://stripe.com/jobs/search?gh_jid=8212517"
     },
     {
       "company": "stripe",
@@ -3551,14 +3551,14 @@
     {
       "company": "stripe",
       "title": "Software Engineer, Intern",
-      "location": "Bengaluru",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833"
+      "location": "London",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     },
     {
       "company": "stripe",
       "title": "Software Engineer, Intern",
-      "location": "London",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130867"
+      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833"
     },
     {
       "company": "stripe",
@@ -3605,14 +3605,26 @@
     {
       "company": "stripe",
       "title": "Software Engineer, New Grad",
-      "location": "London",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130930"
+      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130881"
     },
     {
       "company": "stripe",
       "title": "Software Engineer, New Grad",
-      "location": "Taiwan",
-      "url": "https://stripe.com/jobs/search?gh_jid=8202299"
+      "location": "Bangalore",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130876"
+    },
+    {
+      "company": "stripe",
+      "title": "Software Engineer, New Grad",
+      "location": "Singapore",
+      "url": "https://stripe.com/jobs/search?gh_jid=8160776"
+    },
+    {
+      "company": "stripe",
+      "title": "Software Engineer, New Grad",
+      "location": "San Francisco, Seattle, New York",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128744"
     },
     {
       "company": "stripe",
@@ -3629,26 +3641,14 @@
     {
       "company": "stripe",
       "title": "Software Engineer, New Grad",
-      "location": "Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130881"
+      "location": "Taiwan",
+      "url": "https://stripe.com/jobs/search?gh_jid=8202299"
     },
     {
       "company": "stripe",
       "title": "Software Engineer, New Grad",
-      "location": "San Francisco, Seattle, New York",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128744"
-    },
-    {
-      "company": "stripe",
-      "title": "Software Engineer, New Grad",
-      "location": "Singapore",
-      "url": "https://stripe.com/jobs/search?gh_jid=8160776"
-    },
-    {
-      "company": "stripe",
-      "title": "Software Engineer, New Grad",
-      "location": "Bangalore",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130876"
+      "location": "London",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130930"
     },
     {
       "company": "stripe",
@@ -3703,6 +3703,12 @@
       "title": "Software Engineer, Secrets Infrastructure",
       "location": "na",
       "url": "https://stripe.com/jobs/search?gh_jid=7396679"
+    },
+    {
+      "company": "stripe",
+      "title": "Software Engineer, Secure Devices",
+      "location": "New York, New York",
+      "url": "https://stripe.com/jobs/search?gh_jid=7982720"
     },
     {
       "company": "stripe",
@@ -3766,7 +3772,7 @@
     },
     {
       "company": "stripe",
-      "title": "Solutions Architect, Enterprise (Presales)",
+      "title": "Solutions Architect, Enterprise",
       "location": "San Francisco, CA, Chicago, IL, New York, NY",
       "url": "https://stripe.com/jobs/search?gh_jid=8144185"
     },
@@ -3809,26 +3815,20 @@
     {
       "company": "stripe",
       "title": "Solutions Architect, Metronome (Startups)",
-      "location": "US-NYC, US-SF, US-Chicago",
-      "url": "https://stripe.com/jobs/search?gh_jid=8072257"
+      "location": "London",
+      "url": "https://stripe.com/jobs/search?gh_jid=8179419"
     },
     {
       "company": "stripe",
       "title": "Solutions Architect, Metronome (Startups)",
-      "location": "London",
-      "url": "https://stripe.com/jobs/search?gh_jid=8179419"
+      "location": "US-NYC, US-SF, US-Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=8072257"
     },
     {
       "company": "stripe",
       "title": "Solutions Architect, Platforms, UK",
       "location": "LOCATION",
       "url": "https://stripe.com/jobs/search?gh_jid=8147491"
-    },
-    {
-      "company": "stripe",
-      "title": "Solutions Consultant, Enterprise (Presales)",
-      "location": "San Francisco, CA, Chicago, IL, New York, NY",
-      "url": "https://stripe.com/jobs/search?gh_jid=8168151"
     },
     {
       "company": "stripe",
@@ -3946,6 +3946,12 @@
     },
     {
       "company": "stripe",
+      "title": "Staff Full Stack Software Engineer, Link - Consumer Preference",
+      "location": "San Francisco, NYC, Seattle",
+      "url": "https://stripe.com/jobs/search?gh_jid=8257354"
+    },
+    {
+      "company": "stripe",
       "title": "Staff Machine Learning Engineer, Financial Connections",
       "location": "New York",
       "url": "https://stripe.com/jobs/search?gh_jid=8148653"
@@ -4055,14 +4061,14 @@
     {
       "company": "stripe",
       "title": "Staff Security Engineer, Abuse Control",
-      "location": "Dublin",
-      "url": "https://stripe.com/jobs/search?gh_jid=8174963"
+      "location": "London",
+      "url": "https://stripe.com/jobs/search?gh_jid=8211180"
     },
     {
       "company": "stripe",
       "title": "Staff Security Engineer, Abuse Control",
-      "location": "London",
-      "url": "https://stripe.com/jobs/search?gh_jid=8211180"
+      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=8174963"
     },
     {
       "company": "stripe",
@@ -4099,12 +4105,6 @@
       "title": "Staff Software Engineer, Link - Consumer Identity",
       "location": "San Francisco, Seattle, New York",
       "url": "https://stripe.com/jobs/search?gh_jid=8304788"
-    },
-    {
-      "company": "stripe",
-      "title": "Staff Software Engineer, Link - Consumer Preference",
-      "location": "San Francisco, NYC, Seattle",
-      "url": "https://stripe.com/jobs/search?gh_jid=8257354"
     },
     {
       "company": "stripe",
@@ -4174,6 +4174,18 @@
     },
     {
       "company": "stripe",
+      "title": "Startup Products Strategy & Operations, Insights & Analytics",
+      "location": "Remote US",
+      "url": "https://stripe.com/jobs/search?gh_jid=8234710"
+    },
+    {
+      "company": "stripe",
+      "title": "Startup Products Strategy & Operations, Product Strategy",
+      "location": "US-Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8248415"
+    },
+    {
+      "company": "stripe",
       "title": "Startups Sales Manager, Platform Partnerships",
       "location": "Chicago, IL; New York, NY; San Francisco, CA",
       "url": "https://stripe.com/jobs/search?gh_jid=8210226"
@@ -4217,14 +4229,14 @@
     {
       "company": "stripe",
       "title": "Strategy and Analytics Business Partner",
-      "location": "Bengaluru",
-      "url": "https://stripe.com/jobs/search?gh_jid=7813411"
+      "location": "Bangalore",
+      "url": "https://stripe.com/jobs/search?gh_jid=8245230"
     },
     {
       "company": "stripe",
       "title": "Strategy and Analytics Business Partner",
-      "location": "Bangalore",
-      "url": "https://stripe.com/jobs/search?gh_jid=8245230"
+      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=7813411"
     },
     {
       "company": "stripe",
@@ -4277,20 +4289,26 @@
     {
       "company": "stripe",
       "title": "Technical Account Manager",
-      "location": "Mexico City",
-      "url": "https://stripe.com/jobs/search?gh_jid=8023524"
+      "location": "San Francisco",
+      "url": "https://stripe.com/jobs/search?gh_jid=8160699"
     },
     {
       "company": "stripe",
       "title": "Technical Account Manager",
-      "location": "San Francisco",
-      "url": "https://stripe.com/jobs/search?gh_jid=8160699"
+      "location": "Mexico City",
+      "url": "https://stripe.com/jobs/search?gh_jid=8023524"
     },
     {
       "company": "stripe",
       "title": "Technical Account Manager, Billing",
       "location": "San Francisco",
       "url": "https://stripe.com/jobs/search?gh_jid=8142304"
+    },
+    {
+      "company": "stripe",
+      "title": "Technical Account Manager, Crypto",
+      "location": "New York, San Francisco",
+      "url": "https://stripe.com/jobs/search?gh_jid=8329116"
     },
     {
       "company": "stripe",
@@ -4337,20 +4355,14 @@
     {
       "company": "stripe",
       "title": "Technical Recruiter (Fixed Term Contract)",
-      "location": "SF, SEA, NYC, CHI, ATL",
-      "url": "https://stripe.com/jobs/search?gh_jid=8154525"
-    },
-    {
-      "company": "stripe",
-      "title": "Technical Recruiter (Fixed Term Contract)",
       "location": "Singapore",
       "url": "https://stripe.com/jobs/search?gh_jid=8142856"
     },
     {
       "company": "stripe",
-      "title": "Technical Solutions Consultant, Crypto",
-      "location": "New York, San Francisco",
-      "url": "https://stripe.com/jobs/search?gh_jid=8329116"
+      "title": "Technical Recruiter (Fixed Term Contract)",
+      "location": "SF, SEA, NYC, CHI, ATL",
+      "url": "https://stripe.com/jobs/search?gh_jid=8154525"
     },
     {
       "company": "stripe",
@@ -4570,6 +4582,12 @@
     },
     {
       "company": "coinbase",
+      "title": "Clearing Risk Analyst",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8131356?gh_jid=8131356"
+    },
+    {
+      "company": "coinbase",
       "title": "Communications Manager, Policy & Public Affairs",
       "location": "Remote - USA",
       "url": "https://www.coinbase.com/careers/positions/7746572?gh_jid=7746572"
@@ -4648,12 +4666,6 @@
     },
     {
       "company": "coinbase",
-      "title": "Credit Risk Analyst",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/8131356?gh_jid=8131356"
-    },
-    {
-      "company": "coinbase",
       "title": "Credit Risk Intern",
       "location": "Hybrid - New York, NY",
       "url": "https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369"
@@ -4663,18 +4675,6 @@
       "title": "Crypto Inventory Operations Intern",
       "location": "Hybrid - New York, NY",
       "url": "https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435"
-    },
-    {
-      "company": "coinbase",
-      "title": "Customer Support Specialist II",
-      "location": "Manila, Philippines",
-      "url": "https://www.coinbase.com/careers/positions/8160097?gh_jid=8160097"
-    },
-    {
-      "company": "coinbase",
-      "title": "Customer Support Specialist II",
-      "location": "Hyderabad, India",
-      "url": "https://www.coinbase.com/careers/positions/8333273?gh_jid=8333273"
     },
     {
       "company": "coinbase",
@@ -4690,6 +4690,24 @@
     },
     {
       "company": "coinbase",
+      "title": "Customer Support Specialist II",
+      "location": "Hyderabad, India",
+      "url": "https://www.coinbase.com/careers/positions/8333273?gh_jid=8333273"
+    },
+    {
+      "company": "coinbase",
+      "title": "Customer Support Specialist II",
+      "location": "Manila, Philippines",
+      "url": "https://www.coinbase.com/careers/positions/8160097?gh_jid=8160097"
+    },
+    {
+      "company": "coinbase",
+      "title": "Customer Support Specialist ll",
+      "location": "Manila, Philippines",
+      "url": "https://www.coinbase.com/careers/positions/8334228?gh_jid=8334228"
+    },
+    {
+      "company": "coinbase",
       "title": "Customer Support Specialist ll",
       "location": "Manila, Philippines",
       "url": "https://www.coinbase.com/careers/positions/8334281?gh_jid=8334281"
@@ -4699,6 +4717,12 @@
       "title": "Customer Support Specialist ll",
       "location": "Manila, Philippines",
       "url": "https://www.coinbase.com/careers/positions/8334234?gh_jid=8334234"
+    },
+    {
+      "company": "coinbase",
+      "title": "Customer Support Specialist ll",
+      "location": "Manila, Philippines",
+      "url": "https://www.coinbase.com/careers/positions/8334231?gh_jid=8334231"
     },
     {
       "company": "coinbase",
@@ -4716,13 +4740,49 @@
       "company": "coinbase",
       "title": "Customer Support Specialist ll",
       "location": "Manila, Philippines",
-      "url": "https://www.coinbase.com/careers/positions/8334228?gh_jid=8334228"
+      "url": "https://www.coinbase.com/careers/positions/8336564?gh_jid=8336564"
     },
     {
       "company": "coinbase",
       "title": "Customer Support Specialist ll",
       "location": "Manila, Philippines",
-      "url": "https://www.coinbase.com/careers/positions/8334231?gh_jid=8334231"
+      "url": "https://www.coinbase.com/careers/positions/8336586?gh_jid=8336586"
+    },
+    {
+      "company": "coinbase",
+      "title": "Customer Support Specialist ll",
+      "location": "Manila, Philippines",
+      "url": "https://www.coinbase.com/careers/positions/8337029?gh_jid=8337029"
+    },
+    {
+      "company": "coinbase",
+      "title": "Customer Support Specialist ll",
+      "location": "Manila, Philippines",
+      "url": "https://www.coinbase.com/careers/positions/8337144?gh_jid=8337144"
+    },
+    {
+      "company": "coinbase",
+      "title": "Customer Support Specialist ll",
+      "location": "Manila, Philippines",
+      "url": "https://www.coinbase.com/careers/positions/8337203?gh_jid=8337203"
+    },
+    {
+      "company": "coinbase",
+      "title": "Customer Support Specialist ll",
+      "location": "Manila, Philippines",
+      "url": "https://www.coinbase.com/careers/positions/8337206?gh_jid=8337206"
+    },
+    {
+      "company": "coinbase",
+      "title": "Customer Support Specialist ll",
+      "location": "Manila, Philippines",
+      "url": "https://www.coinbase.com/careers/positions/8337209?gh_jid=8337209"
+    },
+    {
+      "company": "coinbase",
+      "title": "Customer Support Specialist ll",
+      "location": "Manila, Philippines",
+      "url": "https://www.coinbase.com/careers/positions/8337782?gh_jid=8337782"
     },
     {
       "company": "coinbase",
@@ -4930,9 +4990,21 @@
     },
     {
       "company": "coinbase",
+      "title": "Manager, People Ops & Automation",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8335575?gh_jid=8335575"
+    },
+    {
+      "company": "coinbase",
       "title": "Manager, SEC Reporting",
       "location": "Remote - USA",
       "url": "https://www.coinbase.com/careers/positions/8269049?gh_jid=8269049"
+    },
+    {
+      "company": "coinbase",
+      "title": "Manager, Tax Information Reporting and Withholding Advisory",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8338076?gh_jid=8338076"
     },
     {
       "company": "coinbase",
@@ -4986,6 +5058,12 @@
       "company": "coinbase",
       "title": "Payments Risk Analyst II",
       "location": "Hyderabad, India",
+      "url": "https://www.coinbase.com/careers/positions/8334161?gh_jid=8334161"
+    },
+    {
+      "company": "coinbase",
+      "title": "Payments Risk Analyst II",
+      "location": "Hyderabad, India",
       "url": "https://www.coinbase.com/careers/positions/8334164?gh_jid=8334164"
     },
     {
@@ -4993,12 +5071,6 @@
       "title": "Payments Risk Analyst II",
       "location": "Remote - USA",
       "url": "https://www.coinbase.com/careers/positions/7984814?gh_jid=7984814"
-    },
-    {
-      "company": "coinbase",
-      "title": "Payments Risk Analyst II",
-      "location": "Hyderabad, India",
-      "url": "https://www.coinbase.com/careers/positions/8334161?gh_jid=8334161"
     },
     {
       "company": "coinbase",
@@ -5027,14 +5099,14 @@
     {
       "company": "coinbase",
       "title": "Principal Recruiter",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/8260302?gh_jid=8260302"
+      "location": "Remote - Singapore",
+      "url": "https://www.coinbase.com/careers/positions/8106071?gh_jid=8106071"
     },
     {
       "company": "coinbase",
       "title": "Principal Recruiter",
-      "location": "Remote - Singapore",
-      "url": "https://www.coinbase.com/careers/positions/8106071?gh_jid=8106071"
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8260302?gh_jid=8260302"
     },
     {
       "company": "coinbase",
@@ -5106,13 +5178,13 @@
       "company": "coinbase",
       "title": "Risk & Monitoring Analyst III",
       "location": "Remote - UK",
-      "url": "https://www.coinbase.com/careers/positions/8147699?gh_jid=8147699"
+      "url": "https://www.coinbase.com/careers/positions/8147696?gh_jid=8147696"
     },
     {
       "company": "coinbase",
       "title": "Risk & Monitoring Analyst III",
       "location": "Remote - UK",
-      "url": "https://www.coinbase.com/careers/positions/8147696?gh_jid=8147696"
+      "url": "https://www.coinbase.com/careers/positions/8147699?gh_jid=8147699"
     },
     {
       "company": "coinbase",
@@ -5405,14 +5477,14 @@
     {
       "company": "coinbase",
       "title": "Senior Software Engineer, Backend (Retail DEX)",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/8243520?gh_jid=8243520"
+      "location": "Remote - Canada",
+      "url": "https://www.coinbase.com/careers/positions/8243517?gh_jid=8243517"
     },
     {
       "company": "coinbase",
       "title": "Senior Software Engineer, Backend (Retail DEX)",
-      "location": "Remote - Canada",
-      "url": "https://www.coinbase.com/careers/positions/8243517?gh_jid=8243517"
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8243520?gh_jid=8243520"
     },
     {
       "company": "coinbase",
@@ -5536,6 +5608,12 @@
     },
     {
       "company": "coinbase",
+      "title": "Senior Software Engineer, Tax Engineering",
+      "location": "Remote - Canada",
+      "url": "https://www.coinbase.com/careers/positions/8337715?gh_jid=8337715"
+    },
+    {
+      "company": "coinbase",
       "title": "Senior Sourcing Analyst",
       "location": "Remote - USA",
       "url": "https://www.coinbase.com/careers/positions/8017697?gh_jid=8017697"
@@ -5551,12 +5629,6 @@
       "title": "Senior Staff Software Engineer - Blockchain Platform",
       "location": "Remote - USA",
       "url": "https://www.coinbase.com/careers/positions/7366208?gh_jid=7366208"
-    },
-    {
-      "company": "coinbase",
-      "title": "Senior Staff Software Engineer, Institutional Exchange",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/8179210?gh_jid=8179210"
     },
     {
       "company": "coinbase",
@@ -5581,12 +5653,6 @@
       "title": "Senior Strategic Program Lead, GFCO",
       "location": "Remote - USA",
       "url": "https://www.coinbase.com/careers/positions/8230848?gh_jid=8230848"
-    },
-    {
-      "company": "coinbase",
-      "title": "Senior Strategic Program Manager",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/8232211?gh_jid=8232211"
     },
     {
       "company": "coinbase",
@@ -5633,14 +5699,14 @@
     {
       "company": "coinbase",
       "title": "Software Engineer Intern",
-      "location": "Hybrid - San Francisco, CA",
-      "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315"
+      "location": "Hybrid - Singapore",
+      "url": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873"
     },
     {
       "company": "coinbase",
       "title": "Software Engineer Intern",
-      "location": "Hybrid - Singapore",
-      "url": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873"
+      "location": "Hybrid - San Francisco, CA",
+      "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315"
     },
     {
       "company": "coinbase",
@@ -5663,12 +5729,6 @@
     {
       "company": "coinbase",
       "title": "Specialist, Market Operations",
-      "location": "Remote - Singapore",
-      "url": "https://www.coinbase.com/careers/positions/8222264?gh_jid=8222264"
-    },
-    {
-      "company": "coinbase",
-      "title": "Specialist, Market Operations",
       "location": "Remote - USA",
       "url": "https://www.coinbase.com/careers/positions/8222259?gh_jid=8222259"
     },
@@ -5677,6 +5737,12 @@
       "title": "Specialist, Market Operations",
       "location": "Remote - UK",
       "url": "https://www.coinbase.com/careers/positions/8222267?gh_jid=8222267"
+    },
+    {
+      "company": "coinbase",
+      "title": "Specialist, Market Operations",
+      "location": "Remote - Singapore",
+      "url": "https://www.coinbase.com/careers/positions/8222264?gh_jid=8222264"
     },
     {
       "company": "coinbase",
@@ -5704,6 +5770,12 @@
     },
     {
       "company": "coinbase",
+      "title": "Staff Analytics Engineer",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8047150?gh_jid=8047150"
+    },
+    {
+      "company": "coinbase",
       "title": "Staff Data Engineer, Market Data",
       "location": "Remote - USA",
       "url": "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836"
@@ -5725,6 +5797,12 @@
       "title": "Staff Machine Learning Engineer(Platform - Identity)",
       "location": "Remote - USA",
       "url": "https://www.coinbase.com/careers/positions/7891045?gh_jid=7891045"
+    },
+    {
+      "company": "coinbase",
+      "title": "Staff Software Engineer",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/6784618?gh_jid=6784618"
     },
     {
       "company": "coinbase",
@@ -5767,12 +5845,6 @@
       "title": "Staff Software Engineer, Developer Infrastructure (Test Infrastructure)",
       "location": "Remote - USA",
       "url": "https://www.coinbase.com/careers/positions/7964410?gh_jid=7964410"
-    },
-    {
-      "company": "coinbase",
-      "title": "Staff Software Engineer, EAA CX",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/6784618?gh_jid=6784618"
     },
     {
       "company": "coinbase",
@@ -5926,15 +5998,15 @@
     },
     {
       "company": "airbnb",
-      "title": "Backend Engineer, Profile & Community",
-      "location": "United States",
-      "url": "https://careers.airbnb.com/positions/8334926?gh_jid=8334926"
-    },
-    {
-      "company": "airbnb",
       "title": "Business Development Manager",
       "location": "Berlin, Germany",
       "url": "https://careers.airbnb.com/positions/7995153?gh_jid=7995153"
+    },
+    {
+      "company": "airbnb",
+      "title": "Business Operations and Growth Lead",
+      "location": "United States",
+      "url": "https://careers.airbnb.com/positions/7834481?gh_jid=7834481"
     },
     {
       "company": "airbnb",
@@ -5947,6 +6019,12 @@
       "title": "Business Process Improvement Manager",
       "location": "United States",
       "url": "https://careers.airbnb.com/positions/8325376?gh_jid=8325376"
+    },
+    {
+      "company": "airbnb",
+      "title": "Campaign Manager, Mexico",
+      "location": "Mexico City, Mexico",
+      "url": "https://careers.airbnb.com/positions/8336590?gh_jid=8336590"
     },
     {
       "company": "airbnb",
@@ -5983,6 +6061,12 @@
       "title": "Customer Service Partner Operations Manager, Mandarin Speaking (Tokyo Based)",
       "location": "Tokyo, Japan",
       "url": "https://careers.airbnb.com/positions/8172734?gh_jid=8172734"
+    },
+    {
+      "company": "airbnb",
+      "title": "Delivery Excellence Manager",
+      "location": "Ireland",
+      "url": "https://careers.airbnb.com/positions/8336861?gh_jid=8336861"
     },
     {
       "company": "airbnb",
@@ -6077,26 +6161,14 @@
     {
       "company": "airbnb",
       "title": "Manager, Key Accounts - Hotels",
-      "location": "Dublin, Ireland",
-      "url": "https://careers.airbnb.com/positions/8303971?gh_jid=8303971"
-    },
-    {
-      "company": "airbnb",
-      "title": "Manager, Key Accounts - Hotels",
-      "location": "Barcelona, Spain",
-      "url": "https://careers.airbnb.com/positions/8303966?gh_jid=8303966"
-    },
-    {
-      "company": "airbnb",
-      "title": "Manager, Key Accounts - Hotels",
       "location": "London, United Kingdom",
       "url": "https://careers.airbnb.com/positions/8303917?gh_jid=8303917"
     },
     {
       "company": "airbnb",
       "title": "Manager, Key Accounts - Hotels",
-      "location": "Milan, Italy",
-      "url": "https://careers.airbnb.com/positions/8303967?gh_jid=8303967"
+      "location": "Berlin, Germany",
+      "url": "https://careers.airbnb.com/positions/8303970?gh_jid=8303970"
     },
     {
       "company": "airbnb",
@@ -6107,8 +6179,20 @@
     {
       "company": "airbnb",
       "title": "Manager, Key Accounts - Hotels",
-      "location": "Berlin, Germany",
-      "url": "https://careers.airbnb.com/positions/8303970?gh_jid=8303970"
+      "location": "Milan, Italy",
+      "url": "https://careers.airbnb.com/positions/8303967?gh_jid=8303967"
+    },
+    {
+      "company": "airbnb",
+      "title": "Manager, Key Accounts - Hotels",
+      "location": "Barcelona, Spain",
+      "url": "https://careers.airbnb.com/positions/8303966?gh_jid=8303966"
+    },
+    {
+      "company": "airbnb",
+      "title": "Manager, Key Accounts - Hotels",
+      "location": "Dublin, Ireland",
+      "url": "https://careers.airbnb.com/positions/8303971?gh_jid=8303971"
     },
     {
       "company": "airbnb",
@@ -6149,20 +6233,20 @@
     {
       "company": "airbnb",
       "title": "Market Manager",
+      "location": "South Carolina, United States",
+      "url": "https://careers.airbnb.com/positions/8260010?gh_jid=8260010"
+    },
+    {
+      "company": "airbnb",
+      "title": "Market Manager",
       "location": "Portland, Oregon",
       "url": "https://careers.airbnb.com/positions/8282333?gh_jid=8282333"
     },
     {
       "company": "airbnb",
       "title": "Market Manager",
-      "location": "Washington, United States, California, United States",
-      "url": "https://careers.airbnb.com/positions/8328748?gh_jid=8328748"
-    },
-    {
-      "company": "airbnb",
-      "title": "Market Manager",
-      "location": "South Carolina, United States",
-      "url": "https://careers.airbnb.com/positions/8260010?gh_jid=8260010"
+      "location": "London, United Kingdom",
+      "url": "https://careers.airbnb.com/positions/8336893?gh_jid=8336893"
     },
     {
       "company": "airbnb",
@@ -6175,6 +6259,12 @@
       "title": "Market Manager",
       "location": "Phoenix, Arizona",
       "url": "https://careers.airbnb.com/positions/8265896?gh_jid=8265896"
+    },
+    {
+      "company": "airbnb",
+      "title": "Market Manager",
+      "location": "Washington, United States, California, United States",
+      "url": "https://careers.airbnb.com/positions/8328748?gh_jid=8328748"
     },
     {
       "company": "airbnb",
@@ -6431,14 +6521,14 @@
     {
       "company": "airbnb",
       "title": "Senior Compliance Lead, EMEA",
-      "location": "Dublin, Ireland",
-      "url": "https://careers.airbnb.com/positions/8318152?gh_jid=8318152"
+      "location": "London, United Kingdom",
+      "url": "https://careers.airbnb.com/positions/8318103?gh_jid=8318103"
     },
     {
       "company": "airbnb",
       "title": "Senior Compliance Lead, EMEA",
-      "location": "London, United Kingdom",
-      "url": "https://careers.airbnb.com/positions/8318103?gh_jid=8318103"
+      "location": "Dublin, Ireland",
+      "url": "https://careers.airbnb.com/positions/8318152?gh_jid=8318152"
     },
     {
       "company": "airbnb",
@@ -6539,14 +6629,14 @@
     {
       "company": "airbnb",
       "title": "Senior Lead Quality, Global English",
-      "location": "Ireland",
-      "url": "https://careers.airbnb.com/positions/8329756?gh_jid=8329756"
+      "location": "Canada",
+      "url": "https://careers.airbnb.com/positions/8325039?gh_jid=8325039"
     },
     {
       "company": "airbnb",
       "title": "Senior Lead Quality, Global English",
-      "location": "Canada",
-      "url": "https://careers.airbnb.com/positions/8325039?gh_jid=8325039"
+      "location": "Ireland",
+      "url": "https://careers.airbnb.com/positions/8329756?gh_jid=8329756"
     },
     {
       "company": "airbnb",
@@ -6577,6 +6667,12 @@
       "title": "Senior Machine Learning Engineer, Trust",
       "location": "San Francisco, CA",
       "url": "https://careers.airbnb.com/positions/8232153?gh_jid=8232153"
+    },
+    {
+      "company": "airbnb",
+      "title": "Senior Manager, Community Policy",
+      "location": "United States",
+      "url": "https://careers.airbnb.com/positions/8337229?gh_jid=8337229"
     },
     {
       "company": "airbnb",
@@ -6629,14 +6725,14 @@
     {
       "company": "airbnb",
       "title": "Senior Market Manager",
-      "location": "Los Angeles, United States",
-      "url": "https://careers.airbnb.com/positions/8259185?gh_jid=8259185"
+      "location": "London, United Kingdom",
+      "url": "https://careers.airbnb.com/positions/8336959?gh_jid=8336959"
     },
     {
       "company": "airbnb",
       "title": "Senior Market Manager",
-      "location": "Los Angeles, California, United States",
-      "url": "https://careers.airbnb.com/positions/8202802?gh_jid=8202802"
+      "location": "Los Angeles, United States",
+      "url": "https://careers.airbnb.com/positions/8259185?gh_jid=8259185"
     },
     {
       "company": "airbnb",
@@ -6784,7 +6880,7 @@
     },
     {
       "company": "airbnb",
-      "title": "Senior Staff Machine Learning Engineer, Growth Platform Engineering",
+      "title": "Senior Staff Machine Learning Engineer, Marketing Technology",
       "location": "Remote - USA",
       "url": "https://careers.airbnb.com/positions/7747259?gh_jid=7747259"
     },
@@ -6935,14 +7031,14 @@
     {
       "company": "airbnb",
       "title": "Staff Platform Product Manager, Payments Regional Growth",
-      "location": "Mexico",
-      "url": "https://careers.airbnb.com/positions/8120721?gh_jid=8120721"
+      "location": "Brazil",
+      "url": "https://careers.airbnb.com/positions/8120611?gh_jid=8120611"
     },
     {
       "company": "airbnb",
       "title": "Staff Platform Product Manager, Payments Regional Growth",
-      "location": "Brazil",
-      "url": "https://careers.airbnb.com/positions/8120611?gh_jid=8120611"
+      "location": "Mexico",
+      "url": "https://careers.airbnb.com/positions/8120721?gh_jid=8120721"
     },
     {
       "company": "airbnb",
@@ -7073,14 +7169,14 @@
     {
       "company": "airbnb",
       "title": "Support Specialist, Safety",
-      "location": "Korea",
-      "url": "https://careers.airbnb.com/positions/7964996?gh_jid=7964996"
+      "location": "Canada",
+      "url": "https://careers.airbnb.com/positions/7417293?gh_jid=7417293"
     },
     {
       "company": "airbnb",
       "title": "Support Specialist, Safety",
-      "location": "Canada",
-      "url": "https://careers.airbnb.com/positions/7417293?gh_jid=7417293"
+      "location": "Korea",
+      "url": "https://careers.airbnb.com/positions/7964996?gh_jid=7964996"
     },
     {
       "company": "airbnb",
@@ -7093,12 +7189,6 @@
       "title": "Tech Lead Manager, Oracle ERP",
       "location": "Bangalore, India",
       "url": "https://careers.airbnb.com/positions/8102684?gh_jid=8102684"
-    },
-    {
-      "company": "discord",
-      "title": "Commercial Policy Lead",
-      "location": "San Francisco Bay Area",
-      "url": "https://job-boards.greenhouse.io/discord/jobs/8806482002"
     },
     {
       "company": "discord",
@@ -7237,12 +7327,6 @@
       "title": "Senior Product Designer, Design Systems",
       "location": "San Francisco Bay Area",
       "url": "https://job-boards.greenhouse.io/discord/jobs/8846330002"
-    },
-    {
-      "company": "discord",
-      "title": "Senior Product Design Manager, Growth",
-      "location": "San Francisco Bay Area",
-      "url": "https://job-boards.greenhouse.io/discord/jobs/8780263002"
     },
     {
       "company": "discord",
@@ -7528,19 +7612,19 @@
     },
     {
       "company": "figma",
-      "title": "Customer Enablement Manager - Figma Weave  (London, United Kingdom)",
+      "title": "Customer Success Manager - Figma Weave  (London, United Kingdom)",
       "location": "London, England",
       "url": "https://boards.greenhouse.io/figma/jobs/6232584004?gh_jid=6232584004"
     },
     {
       "company": "figma",
-      "title": "Customer Enablement Manager - Figma Weave (New York, United States)",
+      "title": "Customer Success Manager - Figma Weave (New York, United States)",
       "location": "New York, NY \u2022 United States",
       "url": "https://boards.greenhouse.io/figma/jobs/6232541004?gh_jid=6232541004"
     },
     {
       "company": "figma",
-      "title": "Customer Enablement Manager (S\u00e3o Paulo, Brazil)",
+      "title": "Customer Success Manager (S\u00e3o Paulo, Brazil)",
       "location": "S\u00e3o Paulo, Brazil",
       "url": "https://boards.greenhouse.io/figma/jobs/6104028004?gh_jid=6104028004"
     },
@@ -7672,6 +7756,12 @@
     },
     {
       "company": "figma",
+      "title": "Field Engineer",
+      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+      "url": "https://boards.greenhouse.io/figma/jobs/6181922004?gh_jid=6181922004"
+    },
+    {
+      "company": "figma",
       "title": "Forward Deployed Engineer",
       "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
       "url": "https://boards.greenhouse.io/figma/jobs/6158162004?gh_jid=6158162004"
@@ -7780,12 +7870,6 @@
     },
     {
       "company": "figma",
-      "title": "Manager, Security Operations",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "url": "https://boards.greenhouse.io/figma/jobs/6015609004?gh_jid=6015609004"
-    },
-    {
-      "company": "figma",
       "title": "Manager, SMB Sales",
       "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
       "url": "https://boards.greenhouse.io/figma/jobs/6166608004?gh_jid=6166608004"
@@ -7867,6 +7951,12 @@
       "title": "Manager, Technical Support (London, United Kingdom)",
       "location": "London, England",
       "url": "https://boards.greenhouse.io/figma/jobs/6189444004?gh_jid=6189444004"
+    },
+    {
+      "company": "figma",
+      "title": "Onboarding Manager, Customer Experience (Tokyo, Japan)",
+      "location": "Tokyo, Japan",
+      "url": "https://boards.greenhouse.io/figma/jobs/6231832004?gh_jid=6231832004"
     },
     {
       "company": "figma",
@@ -7985,8 +8075,14 @@
     {
       "company": "figma",
       "title": "Sales Operations Manager",
-      "location": "San Francisco, CA \u2022 New York, NY",
+      "location": "New York, NY \u2022 United States",
       "url": "https://boards.greenhouse.io/figma/jobs/6235320004?gh_jid=6235320004"
+    },
+    {
+      "company": "figma",
+      "title": "Sales Recruiter (London, United Kingdom)",
+      "location": "London, England",
+      "url": "https://boards.greenhouse.io/figma/jobs/6238252004?gh_jid=6238252004"
     },
     {
       "company": "figma",
@@ -8017,12 +8113,6 @@
       "title": "Senior Manager, Enterprise Sales (London, United Kingdom)",
       "location": "London, England",
       "url": "https://boards.greenhouse.io/figma/jobs/6124232004?gh_jid=6124232004"
-    },
-    {
-      "company": "figma",
-      "title": "Senior Onboarding Manager, Customer Experience",
-      "location": "Tokyo, Japan",
-      "url": "https://boards.greenhouse.io/figma/jobs/6231832004?gh_jid=6231832004"
     },
     {
       "company": "figma",
@@ -8128,12 +8218,6 @@
     },
     {
       "company": "figma",
-      "title": "Solutions Consultant (London, United Kingdom)",
-      "location": "London, England",
-      "url": "https://boards.greenhouse.io/figma/jobs/5735493004?gh_jid=5735493004"
-    },
-    {
-      "company": "figma",
       "title": "Solutions Consultant, Payload",
       "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
       "url": "https://boards.greenhouse.io/figma/jobs/6111166004?gh_jid=6111166004"
@@ -8161,12 +8245,6 @@
       "title": "Support Engineer, AI Infrastructure & Tooling",
       "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
       "url": "https://boards.greenhouse.io/figma/jobs/5802956004?gh_jid=5802956004"
-    },
-    {
-      "company": "figma",
-      "title": "Technical Account Manager",
-      "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-      "url": "https://boards.greenhouse.io/figma/jobs/6181922004?gh_jid=6181922004"
     },
     {
       "company": "figma",
@@ -8244,19 +8322,13 @@
       "company": "dropbox",
       "title": "Infrastructure Software Engineer",
       "location": "Remote - Poland",
-      "url": "https://jobs.dropbox.com/listing/7752395?gh_jid=7752395"
+      "url": "https://jobs.dropbox.com/listing/6330377?gh_jid=6330377"
     },
     {
       "company": "dropbox",
       "title": "Infrastructure Software Engineer",
       "location": "Remote - Poland",
-      "url": "https://jobs.dropbox.com/listing/6330377?gh_jid=6330377"
-    },
-    {
-      "company": "dropbox",
-      "title": "Integrated Campaign Strategist",
-      "location": "Remote - Canada: Select locations",
-      "url": "https://jobs.dropbox.com/listing/8249958?gh_jid=8249958"
+      "url": "https://jobs.dropbox.com/listing/7752395?gh_jid=7752395"
     },
     {
       "company": "dropbox",
@@ -8266,15 +8338,21 @@
     },
     {
       "company": "dropbox",
-      "title": "Principal Software Engineer, Product Engineering",
-      "location": "Remote - US: All locations",
-      "url": "https://jobs.dropbox.com/listing/8261911?gh_jid=8261911"
+      "title": "Integrated Campaign Strategist",
+      "location": "Remote - Canada: Select locations",
+      "url": "https://jobs.dropbox.com/listing/8249958?gh_jid=8249958"
     },
     {
       "company": "dropbox",
       "title": "Principal Software Engineer, Product Engineering",
       "location": "Remote - Canada: Select locations",
       "url": "https://jobs.dropbox.com/listing/8261916?gh_jid=8261916"
+    },
+    {
+      "company": "dropbox",
+      "title": "Principal Software Engineer, Product Engineering",
+      "location": "Remote - US: All locations",
+      "url": "https://jobs.dropbox.com/listing/8261911?gh_jid=8261911"
     },
     {
       "company": "dropbox",
@@ -8297,14 +8375,14 @@
     {
       "company": "dropbox",
       "title": "Senior Corporate Enterprise Platform Engineer, Windows",
-      "location": "Remote - US: Select locations",
-      "url": "https://jobs.dropbox.com/listing/8280093?gh_jid=8280093"
+      "location": "Remote - Canada: Select locations",
+      "url": "https://jobs.dropbox.com/listing/8280094?gh_jid=8280094"
     },
     {
       "company": "dropbox",
       "title": "Senior Corporate Enterprise Platform Engineer, Windows",
-      "location": "Remote - Canada: Select locations",
-      "url": "https://jobs.dropbox.com/listing/8280094?gh_jid=8280094"
+      "location": "Remote - US: Select locations",
+      "url": "https://jobs.dropbox.com/listing/8280093?gh_jid=8280093"
     },
     {
       "company": "dropbox",
@@ -8356,15 +8434,21 @@
     },
     {
       "company": "reddit",
-      "title": "Chief of Staff, Global Sales",
-      "location": "London, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8249259"
+      "title": "Associate General Counsel, Ads Product",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8148089"
     },
     {
       "company": "reddit",
       "title": "Chief of Staff, Global Sales",
       "location": "New York City, NY",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8187521"
+    },
+    {
+      "company": "reddit",
+      "title": "Chief of Staff, Global Sales",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8249259"
     },
     {
       "company": "reddit",
@@ -8633,14 +8717,14 @@
     {
       "company": "reddit",
       "title": "Senior, Business Risk & AI Automation",
-      "location": "Remote - British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8074860"
+      "location": "Remote - Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8074846"
     },
     {
       "company": "reddit",
       "title": "Senior, Business Risk & AI Automation",
-      "location": "Remote - Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8074846"
+      "location": "Remote - British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8074860"
     },
     {
       "company": "reddit",
@@ -8771,14 +8855,14 @@
     {
       "company": "reddit",
       "title": "Senior Machine Learning Engineer",
-      "location": "Remote - Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/6960833"
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/6960831"
     },
     {
       "company": "reddit",
       "title": "Senior Machine Learning Engineer",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/6960831"
+      "location": "Remote - Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/6960833"
     },
     {
       "company": "reddit",
@@ -8815,12 +8899,6 @@
       "title": "Senior Principal Program Manager, GTM Excellence",
       "location": "Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8125836"
-    },
-    {
-      "company": "reddit",
-      "title": "Senior Product Business Development Manager",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8282305"
     },
     {
       "company": "reddit",
@@ -8879,14 +8957,14 @@
     {
       "company": "reddit",
       "title": "Senior Software Engineer, Core Platform",
-      "location": "Chicago, IL",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8022448"
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8022446"
     },
     {
       "company": "reddit",
       "title": "Senior Software Engineer, Core Platform",
-      "location": "New York City, NY",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8022449"
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8022441"
     },
     {
       "company": "reddit",
@@ -8897,14 +8975,14 @@
     {
       "company": "reddit",
       "title": "Senior Software Engineer, Core Platform",
-      "location": "San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8022446"
+      "location": "Chicago, IL",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8022448"
     },
     {
       "company": "reddit",
       "title": "Senior Software Engineer, Core Platform",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8022441"
+      "location": "New York City, NY",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8022449"
     },
     {
       "company": "reddit",
@@ -8987,14 +9065,14 @@
     {
       "company": "reddit",
       "title": "Software Engineer, Ads",
-      "location": "Remote - Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/6512458"
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/6469397"
     },
     {
       "company": "reddit",
       "title": "Software Engineer, Ads",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/6469397"
+      "location": "Remote - Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/6512458"
     },
     {
       "company": "reddit",
@@ -9040,21 +9118,15 @@
     },
     {
       "company": "reddit",
-      "title": "Staff Community Product Marketing Manager, Trust & Safety",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8302227"
+      "title": "Staff Data Scientist, Ads",
+      "location": "Remote - Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7721851"
     },
     {
       "company": "reddit",
       "title": "Staff Data Scientist, Ads",
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7721787"
-    },
-    {
-      "company": "reddit",
-      "title": "Staff Data Scientist, Ads",
-      "location": "Remote - Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/7721851"
     },
     {
       "company": "reddit",
@@ -9071,14 +9143,14 @@
     {
       "company": "reddit",
       "title": "Staff Data Scientist, Marketing",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/7445240"
+      "location": "Remote - Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7931000"
     },
     {
       "company": "reddit",
       "title": "Staff Data Scientist, Marketing",
-      "location": "Remote - Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/7931000"
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7445240"
     },
     {
       "company": "reddit",
@@ -9193,6 +9265,12 @@
       "title": "Staff Product Security Engineer",
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7868511"
+    },
+    {
+      "company": "reddit",
+      "title": "Staff Program Manager, Human & LLM Data Annotation Operations",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8319764"
     },
     {
       "company": "reddit",
@@ -9406,12 +9484,6 @@
     },
     {
       "company": "gitlab",
-      "title": "Business Development Representative, Italian Speaking",
-      "location": "Remote Ireland; Remote, Spain; Remote, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8882365002"
-    },
-    {
-      "company": "gitlab",
       "title": "Business Development Representative, Spanish Speaking",
       "location": "Remote, Spain",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8882367002"
@@ -9433,6 +9505,12 @@
       "title": "Commercial Account Executive - Australia",
       "location": "Remote, Australia",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8887265002"
+    },
+    {
+      "company": "gitlab",
+      "title": "Commercial Account Executive - Mid-Market, Canada",
+      "location": "Remote, Canada",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891673002"
     },
     {
       "company": "gitlab",
@@ -9466,6 +9544,12 @@
     },
     {
       "company": "gitlab",
+      "title": "Customer Experience Enablement Lead",
+      "location": "Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8920912002"
+    },
+    {
+      "company": "gitlab",
       "title": "Customer Success Architect",
       "location": "Remote, United States",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8877426002"
@@ -9481,6 +9565,12 @@
       "title": "Customer Success Engineer, LATAM (Spanish, Portugese)",
       "location": "Remote, Brazil; Remote, Mexico; Remote, United States",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8637426002"
+    },
+    {
+      "company": "gitlab",
+      "title": "Data Scientist, Enterprise Analytics",
+      "location": "Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922013002"
     },
     {
       "company": "gitlab",
@@ -9505,6 +9595,12 @@
       "title": "Director, Global People Operations & Compliance",
       "location": "Remote, Canada; Remote, United States",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8872500002"
+    },
+    {
+      "company": "gitlab",
+      "title": "Director of Engineering, Dedicated Infrastructure & Platforms",
+      "location": "Remote, Canada; Remote, United Kingdom; Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8883597002"
     },
     {
       "company": "gitlab",
@@ -9653,20 +9749,14 @@
     {
       "company": "gitlab",
       "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
-      "location": "Remote, Poland",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8911684002"
-    },
-    {
-      "company": "gitlab",
-      "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
       "location": "Remote, United Kingdom",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891836002"
     },
     {
       "company": "gitlab",
-      "title": "Intermediate Security Analyst, Vulnerability Operations  (North America)",
-      "location": "Remote, Canada; Remote, United States",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8821526002"
+      "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
+      "location": "Remote, Poland",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8911684002"
     },
     {
       "company": "gitlab",
@@ -9892,12 +9982,6 @@
     },
     {
       "company": "gitlab",
-      "title": "Public Sector Strategic Account Executive - Canada",
-      "location": "Remote, Canada",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8660935002"
-    },
-    {
-      "company": "gitlab",
       "title": "Public Sector Strategic Account Executive, DoW",
       "location": "Remote, United States",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8737840002"
@@ -9994,12 +10078,6 @@
     },
     {
       "company": "gitlab",
-      "title": "Senior AI Engineer",
-      "location": "Remote, US",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8565469002"
-    },
-    {
-      "company": "gitlab",
       "title": "Senior Assigned Support Engineer (AMER)",
       "location": "Remote, Canada; Remote, United States",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8709925002"
@@ -10037,7 +10115,7 @@
     {
       "company": "gitlab",
       "title": "Senior Backend Engineer, Core DevOps: Container Registry",
-      "location": "Remote, United Kingdom",
+      "location": "Remote, Canada; Remote, United States",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687958002"
     },
     {
@@ -10090,6 +10168,12 @@
     },
     {
       "company": "gitlab",
+      "title": "Senior Compensation Manager",
+      "location": "Remote, Canada; Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8918216002"
+    },
+    {
+      "company": "gitlab",
       "title": "Senior Contracts Manager, Commercial (EMEA)",
       "location": "Remote Ireland; Remote, United Kingdom",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8811842002"
@@ -10132,12 +10216,6 @@
     },
     {
       "company": "gitlab",
-      "title": "Senior Director, Dedicated Infrastructure & Platforms",
-      "location": "Remote, Canada; Remote, United Kingdom; Remote, United States",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8883597002"
-    },
-    {
-      "company": "gitlab",
       "title": "Senior Director, Global SME Solutions Architecture",
       "location": "Remote, United States",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8862046002"
@@ -10177,6 +10255,12 @@
       "title": "Senior Frontend Engineer",
       "location": "Bangalore, India",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8826920002"
+    },
+    {
+      "company": "gitlab",
+      "title": "Senior Manager, Data Science",
+      "location": "Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922062002"
     },
     {
       "company": "gitlab",
@@ -10264,6 +10348,12 @@
     },
     {
       "company": "gitlab",
+      "title": "Senior Professional Services Project Manager (EMEA)",
+      "location": "Remote, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8622433002"
+    },
+    {
+      "company": "gitlab",
       "title": "Senior Professional Services Technical Architect - Security",
       "location": "Remote, Canada; Remote, United States",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8795736002"
@@ -10313,12 +10403,6 @@
     {
       "company": "gitlab",
       "title": "Senior Solutions Architect",
-      "location": "Remote, United States",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8906915002"
-    },
-    {
-      "company": "gitlab",
-      "title": "Senior Solutions Architect",
       "location": "Bangalore, India",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8731996002"
     },
@@ -10327,6 +10411,12 @@
       "title": "Senior Solutions Architect",
       "location": "Remote, Singapore",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8880947002"
+    },
+    {
+      "company": "gitlab",
+      "title": "Senior Solutions Architect - East Enterprise team",
+      "location": "Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8906915002"
     },
     {
       "company": "gitlab",
@@ -10399,12 +10489,6 @@
       "title": "SMB Account Executive, Growth",
       "location": "Remote, Canada; Remote, United States",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871878002"
-    },
-    {
-      "company": "gitlab",
-      "title": "SMB New Business Account Executive",
-      "location": "Remote, Canada; Remote, United States",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871274002"
     },
     {
       "company": "gitlab",
@@ -10489,12 +10573,6 @@
       "title": "Staff Data Analyst",
       "location": "Bangalore, India",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8827370002"
-    },
-    {
-      "company": "gitlab",
-      "title": "Staff Forward Deployed Engineer",
-      "location": "Remote, US",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8512432002"
     },
     {
       "company": "gitlab",
@@ -10588,9 +10666,9 @@
     },
     {
       "company": "gitlab",
-      "title": "Staff Solutions Architect, AI Subject Matter Expert",
-      "location": "Remote, France; Remote, Germany; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860196002"
+      "title": "Staff Software Engineer, Security Foundations",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8632446002"
     },
     {
       "company": "gitlab",
@@ -10600,15 +10678,21 @@
     },
     {
       "company": "gitlab",
-      "title": "Strategic Account Executive",
-      "location": "Remote, Germany",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860106002"
+      "title": "Staff Solutions Architect, AI Subject Matter Expert",
+      "location": "Remote, France; Remote, Germany; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860196002"
     },
     {
       "company": "gitlab",
       "title": "Strategic Account Executive",
       "location": "Remote, Germany",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860127002"
+    },
+    {
+      "company": "gitlab",
+      "title": "Strategic Account Executive",
+      "location": "Remote, Germany",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8860106002"
     },
     {
       "company": "gitlab",
